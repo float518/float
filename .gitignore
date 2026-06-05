@@ -1,0 +1,4 @@
+output/
+.venv/
+setup_task.ps1
+run.bat
